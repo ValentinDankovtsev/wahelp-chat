@@ -45,7 +45,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/ValentinDankovtsev/Wahelp-chat.git
+   git clone https://github.com/ValentinDankovtsev/wahelp-chat.git
    cd Wahelp-chat
    ```
 
