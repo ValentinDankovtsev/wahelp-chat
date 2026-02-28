@@ -46,7 +46,7 @@
 
    ```bash
    git clone https://github.com/ValentinDankovtsev/wahelp-chat.git
-   cd Wahelp-chat
+   cd wahelp-chat
    ```
 
 2. **Установите зависимости:**
